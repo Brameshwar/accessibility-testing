@@ -1,0 +1,5 @@
+# Class Files #
+/target/**
+
+# intellij Files #
+.idea/**
